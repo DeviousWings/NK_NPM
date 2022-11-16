@@ -1,5 +1,5 @@
 {
-  "name": "npmtest",
+  "name": "nk-npm",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeviousWings/NK_NPM.git"
+    "url": "git+https://github.com/DeviousWings/nk-npm.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "Nathanael King <nksteele@byui.edu> (https://www.npmjs.com/~deviouswings)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DeviousWings/NK_NPM/issues"
+    "url": "https://github.com/DeviousWings/nk-npm/issues"
   },
-  "homepage": "https://github.com/DeviousWings/NK_NPM#readme",
+  "homepage": "https://github.com/DeviousWings/nk-npm#readme",
   "dependencies": {
     "moment": "^2.29.4"
   }
